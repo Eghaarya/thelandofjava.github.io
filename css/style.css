@@ -233,7 +233,11 @@ section#gallery div img:hover{
     transform: scale(1.1);
 }
 section.quote{
+<<<<<<< HEAD
     background:url('img/background-bromo.jpg') no-repeat;
+=======
+    background:url('../img/background-bromo.jpg') no-repeat;
+>>>>>>> aa2be43 (initial commit)
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -245,7 +249,11 @@ section.quote{
 }
 section.quote .layar-dalam p{
     display: inline;
+<<<<<<< HEAD
     background:url('img/quote-icon.png') no-repeat;
+=======
+    background:url('../img/quote-icon.png') no-repeat;
+>>>>>>> aa2be43 (initial commit)
     padding: 40px;
 }
 .tim img{
